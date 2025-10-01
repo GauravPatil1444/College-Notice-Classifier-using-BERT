@@ -3,6 +3,8 @@
 This project is a **text classification app** that classifies college notices into categories like **Exam, Admin, Academic, or Event** using a fine-tuned **DistilBERT** model.  
 The frontend is built with **Streamlit** for a simple and interactive interface. 
 
+🔴Live Demo: https://huggingface.co/spaces/Gaurav1444/Notice_classifier   
+
 ---
 ## Steps to Execute
 1. Download and Extract the **"DistilBERT-finetuned.zip"** in the Root directory **"DistilBERT-finetuned"** Folder. 
